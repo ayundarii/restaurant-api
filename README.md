@@ -7,7 +7,10 @@ Study Case Restaurant-API
    ```npm install```
 
 2. Create collection
-   ```npm ./migration/create.js```
+   ```node ./migration/create.js```
 
 3. Seed data
-   ```npm ./seeder/seed.js```
+   ```node ./seeder/seed.js```
+
+4. Run the project
+    ```node index.js```
